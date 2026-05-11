@@ -1,0 +1,10 @@
+C:\Users\aricg\source\repos\WinConvert\WinConvert\bin\Debug\WinConvert.exe.config
+C:\Users\aricg\source\repos\WinConvert\WinConvert\bin\Debug\WinConvert.exe
+C:\Users\aricg\source\repos\WinConvert\WinConvert\bin\Debug\WinConvert.pdb
+C:\Users\aricg\source\repos\WinConvert\WinConvert\obj\Debug\WinConvert.csproj.AssemblyReference.cache
+C:\Users\aricg\source\repos\WinConvert\WinConvert\obj\Debug\WinConvert.main.resources
+C:\Users\aricg\source\repos\WinConvert\WinConvert\obj\Debug\WinConvert.Properties.Resources.resources
+C:\Users\aricg\source\repos\WinConvert\WinConvert\obj\Debug\WinConvert.csproj.GenerateResource.cache
+C:\Users\aricg\source\repos\WinConvert\WinConvert\obj\Debug\WinConvert.csproj.CoreCompileInputs.cache
+C:\Users\aricg\source\repos\WinConvert\WinConvert\obj\Debug\WinConvert.exe
+C:\Users\aricg\source\repos\WinConvert\WinConvert\obj\Debug\WinConvert.pdb
